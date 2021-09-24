@@ -1,2 +1,2 @@
-# www.mrskt.com
-Codes for www.mrskt.com
+## About
+MRSKT is a Multi-Niche Website
