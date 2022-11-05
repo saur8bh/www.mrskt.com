@@ -49,3 +49,4 @@ function add_my_custom_post_type($query) {
        $query->set('post_type', array('post', 'tutorial', 'review', 'collection'));
     }
 }
+add_filter( 'action_scheduler_pastdue_actions_check_pre', '__return_false' );
